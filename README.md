@@ -5,3 +5,5 @@
     $ cd static-page-sample
     $ npm install
     $ npm start
+
+ブラウザで http://localhost:9080 を開く

@@ -1,0 +1,13 @@
+{
+  "name": "static-page-sample",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "static-server --port 9080"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "static-server": "^2.0.1"
+  }
+}
